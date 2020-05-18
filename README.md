@@ -1,5 +1,5 @@
 # brotli-luajit
-brotli binding using luajit ffi
+[brotli](https://brotli.org/) binding using luajit ffi
 
 # make
 make brotli.lua using `luajit brotli-make.lua > brotli.lua`  
